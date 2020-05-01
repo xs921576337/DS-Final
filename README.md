@@ -1,3 +1,2 @@
 # DS-Final
-Add Final Project Dataset;
-Using machine learning model to predict the actual Body Mass Index (BMI) according to self-reported weight and height
+The work I submitted represents my work and my work alone.  I abode by the academic integrity policy and I am aware of the consequences associated with engaging in academic misconduct
